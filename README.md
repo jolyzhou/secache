@@ -1,4 +1,3 @@
-![image](http://secache.googlecode.com/files/secache-logo.png)
 
 This class can be used to store and retrieve cached values from single file.
 It can store one or more keys in a single cache file.
